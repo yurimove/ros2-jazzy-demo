@@ -14,7 +14,7 @@ ros2 run demo_nodes_cpp talker
 ros2 run demo_nodes_py listener
 ros2 node list
 ros2 topic list
-ros2 topic echo /chatter
+ros2 topic echo /chatter```
 
 #Outcome
 
