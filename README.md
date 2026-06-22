@@ -5,11 +5,11 @@
 - Ubuntu 24.04 LTS
 - ROS 2 Jazzy Jalisco
 
-#Outcome
+## Outcome
 
 Successfully installed ROS 2 Jazzy and demonstrated communication between publisher and subscriber nodes.
 
-#Screenshots
+## Screenshots
 
 See the screenshots folder.
 
